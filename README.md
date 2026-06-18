@@ -5,7 +5,7 @@
 <img src="https://forum-cfx-re.akamaized.net/original/5X/0/8/7/9/087980c177d5748826d5a5b2a22b5d2d0dc91d29.jpeg">
 **YouTube Preview :** <a href="https://www.youtube.com/watch?v=IJP5grCeGX8" target="_blank">https://www.youtube.com/watch?v=IJP5grCeGX8</a>
 
-**Link to the resource :** <a href="https://soracle.tebex.io/package/skwatch" target="_blank">https://soracle.tebex.io/package/skwatch</a> (Coming soon)
+**Link to the resource :** <a href="https://soracle.tebex.io/package/skwatch" target="_blank">https://soracle.tebex.io/package/skwatch</a>
 
 **Informations :**
 
